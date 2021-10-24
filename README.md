@@ -15,16 +15,14 @@ After replacing all the 9th Grader scores from Thomas High School with "NaN" val
         - The percentage of students who passed Math decreased by .2%
         - The percentage of students who passed Reading decreased by .1%
         - The percentage of students who passed both subjects fell by .3%
-        (Image placeholder)
-   
+        (Image placeholder)  
    - The school summary gave us insight on the direct impact removing the 9th grade scores had on Thomas High School's average scores and percentages
         - Average Math scores in the school fell by nearly .07 points
         - Average Reading scores increased by close to .05 points
         - The percentage of students who passed Math decreased by almost .1%
         - The percentage of students who passed Reading decreased by roughly .3%
         - The percentage of students who passed both subjects fell by .3%
-        (Image placeholder)
-  
+        (Image placeholder)  
   - Removing the statistical significance of Thomas High School's 9th grade scores had a slight impact on how they performed compared to other scores. While retaining the second spot on the districts top performers list when comparing the number of students passing both subjects, their .35% edge over Griffin Highschool reduced to only .03%, rendering it a near statistical tie.
         (Image placeholder)
    - The Math and Reading Scores by Grades were directly affected by the replacement of 9th grade scores. These DataFrames point out exactly which data sets have been ommited from the analysis while keeping all of the other data sets intact.
@@ -44,7 +42,7 @@ After replacing all the 9th Grader scores from Thomas High School with "NaN" val
         - The percentage of students who passed Reading decreased by .06%
         - The percentage of students who passed both subjects fell by .06%
         (Image Placeholder)
-    - Finally, the changes in the Scores by school type were also slightly down in the Charter school bin
+   - Finally, the changes in the Scores by school type were also slightly down in the Charter school bin
         - Average Math scores in the bin decreased by almost .01 points 
         - Average Reading scores increased by nearly .01 points
         - The percentage of students who passed Math decreased by .01%
