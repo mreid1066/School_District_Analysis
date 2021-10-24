@@ -8,33 +8,36 @@ After completing the initial PyCity Schools analysis, it was brought to our atte
 ### Comparisons of Analyses
 
 After replacing all the 9th Grader scores from Thomas High School with "NaN" values and effectively removing their impact on the analysis, we were able to document the following changes:
-    - In the District Summary, the analysis replacing the suspect scores found
+   
+   - In the District Summary, the analysis replacing the suspect scores found
         - Average Math scores in the district fell by .1 
         - Average Reading scores had little change
         - The percentage of students who passed Math decreased by .2%
         - The percentage of students who passed Reading decreased by .1%
         - The percentage of students who passed both subjects fell by .3%
         (Image placeholder)
-    - The school summary gave us insight on the direct impact removing the 9th grade scores had on Thomas High School's average scores and percentages
+   
+   - The school summary gave us insight on the direct impact removing the 9th grade scores had on Thomas High School's average scores and percentages
         - Average Math scores in the school fell by nearly .07 points
         - Average Reading scores increased by close to .05 points
         - The percentage of students who passed Math decreased by almost .1%
         - The percentage of students who passed Reading decreased by roughly .3%
         - The percentage of students who passed both subjects fell by .3%
         (Image placeholder)
-    - Removing the statistical significance of Thomas High School's 9th grade scores had a slight impact on how they performed compared to other scores. While retaining the second spot on the districts top performers list when comparing the number of students passing both subjects, their .35% edge over Griffin Highschool reduced to only .03%, rendering it a near statistical tie.
+  
+  - Removing the statistical significance of Thomas High School's 9th grade scores had a slight impact on how they performed compared to other scores. While retaining the second spot on the districts top performers list when comparing the number of students passing both subjects, their .35% edge over Griffin Highschool reduced to only .03%, rendering it a near statistical tie.
         (Image placeholder)
-    - The Math and Reading Scores by Grades were directly affected by the replacement of 9th grade scores. These DataFrames point out exactly which data sets have been ommited from the analysis while keeping all of the other data sets intact.
+   - The Math and Reading Scores by Grades were directly affected by the replacement of 9th grade scores. These DataFrames point out exactly which data sets have been ommited from the analysis while keeping all of the other data sets intact.
         (Image Placeholder)
         (Image Placeholder)
-    - In the Scores by School Spending analysis, we saw the following changes in the $630-644 per student bin
+   - In the Scores by School Spending analysis, we saw the following changes in the $630-644 per student bin
         - Average Math scores in the bin decreased by almost .02 points 
         - Average Reading scores decreased by .02 points
         - The percentage of students who passed Math decreased by .02%
         - The percentage of students who passed Reading decreased by .07%
         - The percentage of students who passed both subjects fell by .06%
         (Image Placeholder)
-    - The impact made to the Scores by School Size analysis was also fairly minimal. The following changes occured in the medium school size bin
+   - The impact made to the Scores by School Size analysis was also fairly minimal. The following changes occured in the medium school size bin
         - Average Math scores in the bin decreased by roughly .01 points 
         - Average Reading scores increased by nearly .01 points
         - The percentage of students who passed Math decreased by .02%
